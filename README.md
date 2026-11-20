@@ -2,7 +2,7 @@
 
 Trabalho 2 de **T326 Ciência de Dados** (Universidade de Fortaleza, Prof. Rilder de Sousa Pires). Modelos de aprendizado de máquina para prever o PIB de 2024 dos municípios do Centro-Oeste (GO, MT, MS e DF) e classificar o crescimento econômico de cada um em cinco categorias.
 
-**Equipe:** Walter Gomes, [PREENCHER: demais integrantes]
+**Equipe:** Walter Gomes e Luis Albuquerque
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuisEduardo100/previsao-pib-centro-oeste/blob/main/notebooks/trabalho2_previsao_pib.ipynb)
 
@@ -17,19 +17,24 @@ Avaliação em 2023: modelos treinados com dados até 2022 e comparados ao PIB o
 
 Previsão para 2024: PIB do Centro-Oeste de R$ 1.229 bilhões (+6,0% sobre 2023). Por categoria: 226 municípios em forte crescimento, 61 em crescimento moderado, 29 em estabilidade, 61 em retração e 90 em forte retração.
 
-Metodologia, comparação entre modelos e discussão estão no relatório técnico ([`relatorio/`](relatorio/)) e no notebook.
+Metodologia, comparação entre modelos e discussão estão no [relatório técnico](relatorio/relatorio_tecnico.pdf) e no notebook.
 
 ## Estrutura
 
 ```
-notebooks/trabalho2_previsao_pib.ipynb        notebook completo: coleta, EDA, pré-processamento, modelos e previsões
-dados/README.md                               dicionário das variáveis e das variáveis-alvo
-dados/brutos/                                 CSVs coletados do SIDRA (PIB, população, PAM e municípios)
-dados/tratados/                               painel tratado e base usada no treino dos modelos
-dados/previsoes/previsoes_2024.csv            PIB e categoria previstos para 2024, todos os municípios
-dados/previsoes/previsoes_2023_validacao.csv  previsões de 2023 comparadas aos valores oficiais
-relatorio/                                    relatório técnico em PDF
-requirements.txt                              bibliotecas Python
+├── notebooks/
+│   └── trabalho2_previsao_pib.ipynb         coleta, EDA, pré-processamento, modelos e previsões
+├── dados/
+│   ├── README.md                            descrição das variáveis e das variáveis-alvo, como baixar
+│   ├── tratados/
+│   │   ├── painel_centro_oeste_tratado.csv  painel município × ano após o tratamento
+│   │   └── base_modelagem.csv               base usada no treino dos modelos
+│   └── previsoes/
+│       └── previsoes_2024.csv               PIB e categoria de crescimento previstos para 2024
+├── relatorio/
+│   └── relatorio_tecnico.pdf                relatório técnico
+├── requirements.txt                         bibliotecas Python
+└── README.md
 ```
 
 ## Como executar
@@ -49,7 +54,7 @@ jupyter notebook notebooks/trabalho2_previsao_pib.ipynb
 
 Depois, *Run > Run All Cells*. Os CSVs são gravados na pasta `notebooks/`.
 
-A célula 0 (comentada) refaz a coleta direto do SIDRA com `sidrapy`. Não é preciso rodá-la: os CSVs coletados estão no Drive da equipe e em `dados/brutos/`.
+A célula 0 (comentada) refaz a coleta direto do SIDRA com `sidrapy`. Não é preciso rodá-la: os CSVs coletados já estão no Drive da equipe e são baixados pela célula 1.
 
 ## Dados
 

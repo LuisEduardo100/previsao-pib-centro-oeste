@@ -1,12 +1,11 @@
 # Dados: Centro-Oeste
 
-Todos os arquivos são gerados pelo notebook [`notebooks/trabalho2_previsao_pib.ipynb`](../notebooks/trabalho2_previsao_pib.ipynb), rodando as células em ordem, e estão copiados nesta pasta. Os brutos (`brutos/pib.csv`, `pop.csv`, `pam.csv` e `municipios.csv`) são os coletados do SIDRA na célula 0 do notebook.
+Todos os arquivos são gerados pelo notebook [`notebooks/trabalho2_previsao_pib.ipynb`](../notebooks/trabalho2_previsao_pib.ipynb), rodando as células em ordem, e estão copiados nesta pasta. Todos estão em CSV.
 
 | Arquivo | Conteúdo | Linhas |
 |---|---|---|
 | `tratados/painel_centro_oeste_tratado.csv` | Painel município × ano (2002 a 2023) após o tratamento de ausentes e inconsistências | 10.258 |
 | `tratados/base_modelagem.csv` | Base usada para treinar os modelos: município × ano-alvo (2007 a 2024) | 8.399 |
-| `previsoes/previsoes_2023_validacao.csv` | Previsões de 2023 (teste) comparadas ao valor oficial | 467 |
 | `previsoes/previsoes_2024.csv` | **Previsões do PIB e da categoria de crescimento de 2024** | 468 |
 
 ## `painel_centro_oeste_tratado.csv`
@@ -62,10 +61,6 @@ Cada linha prevê o PIB do ano `ano` (t) com informação publicada antes do PIB
 | `crescimento_2024_previsto_pct` | Crescimento previsto de 2023 para 2024 (%) |
 | `categoria_2024_prevista` | Categoria de crescimento prevista para 2024 |
 | `observacao` | Preenchida só para Boa Esperança do Norte/MT, instalado em 2025 e sem PIB em 2023 e 2024 |
-
-## `previsoes_2023_validacao.csv`
-
-`pib_2022`, `pib_2023_real`, `crescimento_2023_real_pct`, `categoria_2023_real`, `pib_2023_previsto`, `erro_pct` (erro percentual: previsto menos real, dividido pelo real) e `categoria_2023_prevista`.
 
 ## Como baixar
 
