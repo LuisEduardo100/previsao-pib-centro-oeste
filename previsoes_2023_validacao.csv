@@ -1,0 +1,468 @@
+cod_mun,municipio,uf,pib_2022,pib_2023_real,crescimento_2023_real_pct,categoria_2023_real,pib_2023_previsto,erro_pct,categoria_2023_prevista
+5000203,Água Clara,MS,1718478.0,1544633.0,-10.116219119476655,Forte retração,1801896.0,16.66,Crescimento moderado
+5000252,Alcinópolis,MS,291926.0,384368.0,31.666244185170235,Forte crescimento,319032.0,-17.0,Forte crescimento
+5000609,Amambai,MS,2107401.0,2426261.0,15.130485370368474,Forte crescimento,2395383.0,-1.27,Forte crescimento
+5000708,Anastácio,MS,964115.0,783841.0,-18.698391789361292,Forte retração,982805.0,25.38,Crescimento moderado
+5000807,Anaurilândia,MS,438853.0,623710.0,42.122760924501065,Forte crescimento,554584.0,-11.08,Forte crescimento
+5000856,Angélica,MS,1013830.0,1243471.0,22.65083889804003,Forte crescimento,1044211.0,-16.02,Crescimento moderado
+5000906,Antônio João,MS,917075.0,851781.0,-7.119810266335868,Forte retração,989796.0,16.2,Forte crescimento
+5001003,Aparecida do Taboado,MS,2245279.0,2189222.0,-2.4966607713339584,Retração,2321492.0,6.04,Crescimento moderado
+5001102,Aquidauana,MS,1341941.0,1437451.0,7.117302474549825,Forte crescimento,1491489.0,3.76,Forte crescimento
+5001243,Aral Moreira,MS,1184828.0,1348752.0,13.835257100608779,Forte crescimento,1209348.0,-10.34,Crescimento moderado
+5001508,Bandeirantes,MS,1076855.0,1001346.0,-7.011993258145155,Forte retração,986070.0,-1.53,Forte retração
+5001904,Bataguassu,MS,1403352.0,1841917.0,31.251247014291405,Forte crescimento,1492712.0,-18.96,Forte crescimento
+5002001,Batayporã,MS,637225.0,784829.0,23.163560751696856,Forte crescimento,761107.0,-3.02,Forte crescimento
+5002100,Bela Vista,MS,1098991.0,1176300.0,7.034543503995994,Forte crescimento,1205237.0,2.46,Forte crescimento
+5002159,Bodoquena,MS,511355.0,386420.0,-24.432145965131813,Forte retração,522370.0,35.18,Crescimento moderado
+5002209,Bonito,MS,1312946.0,1586577.0,20.840994222153775,Forte crescimento,1452926.0,-8.42,Forte crescimento
+5002308,Brasilândia,MS,1056555.0,1159417.0,9.735602973815771,Forte crescimento,1080613.0,-6.8,Crescimento moderado
+5002407,Caarapó,MS,2000420.0,2553085.0,27.62744823587049,Forte crescimento,2404481.0,-5.82,Forte crescimento
+5002605,Camapuã,MS,774336.0,872276.0,12.648256054219509,Forte crescimento,849437.0,-2.62,Forte crescimento
+5002704,Campo Grande,MS,40478598.0,42269768.0,4.424980331581385,Crescimento moderado,45138552.0,6.79,Forte crescimento
+5002803,Caracol,MS,218740.0,251148.0,14.815763006308845,Forte crescimento,213627.0,-14.94,Retração
+5002902,Cassilândia,MS,1000068.0,1059973.0,5.9900926736981885,Forte crescimento,1065895.0,0.56,Forte crescimento
+5002951,Chapadão do Sul,MS,3540874.0,3329527.0,-5.968780589199286,Forte retração,3426855.0,2.92,Retração
+5003108,Corguinho,MS,139570.0,172551.0,23.630436340187664,Forte crescimento,143926.0,-16.59,Crescimento moderado
+5003157,Coronel Sapucaia,MS,361039.0,388241.0,7.534366093413758,Forte crescimento,397384.0,2.36,Forte crescimento
+5003207,Corumbá,MS,3858947.0,4187429.0,8.51221848861876,Forte crescimento,4082533.0,-2.51,Forte crescimento
+5003256,Costa Rica,MS,3569032.0,3341491.0,-6.3754261659742735,Forte retração,3389874.0,1.45,Forte retração
+5003306,Coxim,MS,1273342.0,1400833.0,10.012314052312865,Forte crescimento,1420161.0,1.38,Forte crescimento
+5003454,Deodápolis,MS,576103.0,712633.0,23.698887178160955,Forte crescimento,639634.0,-10.24,Forte crescimento
+5003488,Dois Irmãos do Buriti,MS,375901.0,456777.0,21.515239384838104,Forte crescimento,389013.0,-14.84,Crescimento moderado
+5003504,Douradina,MS,221684.0,259999.0,17.283610905613365,Forte crescimento,241974.0,-6.93,Forte crescimento
+5003702,Dourados,MS,17441798.0,20257953.0,16.146013157588634,Forte crescimento,17749699.0,-12.38,Crescimento moderado
+5003751,Eldorado,MS,558800.0,704592.0,26.090193271295448,Forte crescimento,683648.0,-2.97,Forte crescimento
+5003801,Fátima do Sul,MS,730287.0,769333.0,5.34666507824999,Forte crescimento,806234.0,4.8,Forte crescimento
+5003900,Figueirão,MS,161690.0,186835.0,15.551363720700028,Forte crescimento,177588.0,-4.95,Forte crescimento
+5004007,Glória de Dourados,MS,332847.0,449930.0,35.17622210805553,Forte crescimento,402962.0,-10.44,Forte crescimento
+5004106,Guia Lopes da Laguna,MS,360936.0,477600.0,32.32262783429749,Forte crescimento,435129.0,-8.89,Forte crescimento
+5004304,Iguatemi,MS,756246.0,962593.0,27.285698040055784,Forte crescimento,929467.0,-3.44,Forte crescimento
+5004403,Inocência,MS,474388.0,946307.0,99.47953995463612,Forte crescimento,506648.0,-46.46,Forte crescimento
+5004502,Itaporã,MS,1340706.0,1525654.0,13.794821534326097,Forte crescimento,1425320.0,-6.58,Forte crescimento
+5004601,Itaquiraí,MS,1232966.0,1546553.0,25.4335480459315,Forte crescimento,1413167.0,-8.62,Forte crescimento
+5004700,Ivinhema,MS,1561569.0,2005469.0,28.426537668204244,Forte crescimento,1726372.0,-13.92,Forte crescimento
+5004809,Japorã,MS,191238.0,242175.0,26.635396730775284,Forte crescimento,226990.0,-6.27,Forte crescimento
+5004908,Jaraguari,MS,777136.0,717701.0,-7.647953511354466,Forte retração,621792.0,-13.36,Forte retração
+5005004,Jardim,MS,1067857.0,1130237.0,5.84160613265623,Forte crescimento,1108143.0,-1.95,Crescimento moderado
+5005103,Jateí,MS,389893.0,729978.0,87.22521307127869,Forte crescimento,560234.0,-23.25,Forte crescimento
+5005152,Juti,MS,388258.0,517930.0,33.39841033539557,Forte crescimento,435839.0,-15.85,Forte crescimento
+5005202,Ladário,MS,385976.0,420685.0,8.99252803283106,Forte crescimento,436347.0,3.72,Forte crescimento
+5005251,Laguna Carapã,MS,895138.0,1257650.0,40.49788971086028,Forte crescimento,1118143.0,-11.09,Forte crescimento
+5005400,Maracaju,MS,5775525.0,5921262.0,2.5233550196733567,Crescimento moderado,5507700.0,-6.98,Retração
+5005608,Miranda,MS,673147.0,782435.0,16.235383950311054,Forte crescimento,731426.0,-6.52,Forte crescimento
+5005681,Mundo Novo,MS,838514.0,1018195.0,21.42850328080388,Forte crescimento,952671.0,-6.44,Forte crescimento
+5005707,Naviraí,MS,2882132.0,3670207.0,27.343473511969552,Forte crescimento,3570601.0,-2.71,Forte crescimento
+5005806,Nioaque,MS,541179.0,618784.0,14.339987323972124,Forte crescimento,594015.0,-4.0,Forte crescimento
+5006002,Nova Alvorada do Sul,MS,2485637.0,2592615.0,4.303846458674365,Crescimento moderado,2563280.0,-1.13,Crescimento moderado
+5006200,Nova Andradina,MS,3205466.0,3568745.0,11.333110380830691,Forte crescimento,3570921.0,0.06,Forte crescimento
+5006259,Novo Horizonte do Sul,MS,267858.0,450886.0,68.33023467658235,Forte crescimento,379449.0,-15.84,Forte crescimento
+5006275,Paraíso das Águas,MS,1545566.0,1389706.0,-10.084331565264703,Forte retração,1433500.0,3.15,Forte retração
+5006309,Paranaíba,MS,1606751.0,2012106.0,25.228240094451458,Forte crescimento,1814994.0,-9.8,Forte crescimento
+5006358,Paranhos,MS,241040.0,371183.0,53.99228343843359,Forte crescimento,310551.0,-16.33,Forte crescimento
+5006408,Pedro Gomes,MS,390021.0,460934.0,18.181841490586482,Forte crescimento,457133.0,-0.82,Forte crescimento
+5006606,Ponta Porã,MS,4682122.0,6069790.0,29.63758740160989,Forte crescimento,5279759.0,-13.02,Forte crescimento
+5006903,Porto Murtinho,MS,452838.0,571511.0,26.206502104505436,Forte crescimento,472676.0,-17.29,Crescimento moderado
+5007109,Ribas do Rio Pardo,MS,2220978.0,3353286.0,50.982405048586486,Forte crescimento,2196865.0,-34.49,Retração
+5007208,Rio Brilhante,MS,3253727.0,3833911.0,17.831366921687053,Forte crescimento,3508570.0,-8.49,Forte crescimento
+5007307,Rio Negro,MS,157675.0,170386.0,8.06151894720144,Forte crescimento,151097.0,-11.32,Retração
+5007406,Rio Verde de Mato Grosso,MS,843881.0,926597.0,9.801855948883919,Forte crescimento,825466.0,-10.91,Retração
+5007505,Rochedo,MS,373746.0,352337.0,-5.728221840501268,Forte retração,374808.0,6.38,Estabilidade
+5007554,Santa Rita do Pardo,MS,414091.0,642967.0,55.27190883163353,Forte crescimento,446714.0,-30.52,Forte crescimento
+5007695,São Gabriel do Oeste,MS,3210185.0,2883850.0,-10.165613508255777,Forte retração,3126369.0,8.41,Retração
+5007703,Sete Quedas,MS,408989.0,493949.0,20.773174828662945,Forte crescimento,490652.0,-0.67,Forte crescimento
+5007802,Selvíria,MS,2961878.0,2691218.0,-9.138121151512646,Forte retração,2877189.0,6.91,Retração
+5007901,Sidrolândia,MS,3961554.0,4102346.0,3.5539588757341534,Crescimento moderado,4157969.0,1.36,Crescimento moderado
+5007935,Sonora,MS,1492717.0,1489093.0,-0.24277877186371644,Estabilidade,1442708.0,-3.11,Retração
+5007950,Tacuru,MS,299109.0,378151.0,26.425818012831392,Forte crescimento,358156.0,-5.29,Forte crescimento
+5007976,Taquarussu,MS,165127.0,215369.0,30.426277955755165,Forte crescimento,195410.0,-9.27,Forte crescimento
+5008008,Terenos,MS,934248.0,1348544.0,44.34539865217788,Forte crescimento,964342.0,-28.49,Crescimento moderado
+5008305,Três Lagoas,MS,13045271.0,14761816.0,13.158369803126458,Forte crescimento,14135274.0,-4.24,Forte crescimento
+5008404,Vicentina,MS,318971.0,384734.0,20.61723479563986,Forte crescimento,369367.0,-3.99,Forte crescimento
+5100102,Acorizal,MT,143255.0,169373.0,18.23182436913202,Forte crescimento,151765.0,-10.4,Forte crescimento
+5100201,Água Boa,MT,2559709.0,2479715.0,-3.125120863348174,Retração,2442014.0,-1.52,Retração
+5100250,Alta Floresta,MT,2570691.0,3034593.0,18.045809473017083,Forte crescimento,2878322.0,-5.15,Forte crescimento
+5100300,Alto Araguaia,MT,1820876.0,2036609.0,11.847758990727652,Forte crescimento,1805428.0,-11.35,Estabilidade
+5100359,Alto Boa Vista,MT,321152.0,307732.0,-4.178706656038278,Retração,272364.0,-11.49,Forte retração
+5100409,Alto Garças,MT,1382832.0,1233308.0,-10.812882548277658,Forte retração,1064519.0,-13.69,Forte retração
+5100508,Alto Paraguai,MT,155562.0,171251.0,10.085367891901488,Forte crescimento,155289.0,-9.32,Estabilidade
+5100607,Alto Taquari,MT,1516366.0,1194826.0,-21.20464320619161,Forte retração,1192234.0,-0.22,Forte retração
+5100805,Apiacás,MT,256494.0,291453.0,13.629558586165702,Forte crescimento,273216.0,-6.26,Forte crescimento
+5101001,Araguaiana,MT,172514.0,169005.0,-2.0340378172205353,Retração,153723.0,-9.04,Forte retração
+5101209,Araguainha,MT,31669.0,31097.0,-1.8061827023271748,Retração,29669.0,-4.59,Forte retração
+5101258,Araputanga,MT,707293.0,864362.0,22.207062702444347,Forte crescimento,722866.0,-16.37,Crescimento moderado
+5101308,Arenápolis,MT,270202.0,325467.0,20.45321648248337,Forte crescimento,300626.0,-7.63,Forte crescimento
+5101407,Aripuanã,MT,1397041.0,1451936.0,3.9293764463606218,Crescimento moderado,1533689.0,5.63,Forte crescimento
+5101605,Barão de Melgaço,MT,121806.0,143657.0,17.93918197789923,Forte crescimento,132461.0,-7.79,Forte crescimento
+5101704,Barra do Bugres,MT,1774307.0,1774198.0,-0.006143243531064879,Estabilidade,1848971.0,4.21,Crescimento moderado
+5101803,Barra do Garças,MT,3208206.0,3537696.0,10.270225789740529,Forte crescimento,3395882.0,-4.01,Forte crescimento
+5101852,Bom Jesus do Araguaia,MT,1178321.0,1001994.0,-14.964258466071655,Forte retração,900750.0,-10.1,Forte retração
+5101902,Brasnorte,MT,2458070.0,2668091.0,8.54414235558789,Forte crescimento,2382278.0,-10.71,Retração
+5102504,Cáceres,MT,2349227.0,2795729.0,19.00633697807832,Forte crescimento,2618193.0,-6.35,Forte crescimento
+5102603,Campinápolis,MT,498545.0,614856.0,23.330090563539983,Forte crescimento,593836.0,-3.42,Forte crescimento
+5102637,Campo Novo do Parecis,MT,7304671.0,7917233.0,8.385894450277087,Forte crescimento,6903696.0,-12.8,Forte retração
+5102678,Campo Verde,MT,5239952.0,5099105.0,-2.687944469720316,Retração,4745268.0,-6.94,Forte retração
+5102686,Campos de Júlio,MT,2919960.0,2905079.0,-0.5096302689078014,Estabilidade,2698391.0,-7.11,Forte retração
+5102694,Canabrava do Norte,MT,299805.0,299035.0,-0.25683360851215253,Estabilidade,278087.0,-7.01,Forte retração
+5102702,Canarana,MT,3111500.0,3000654.0,-3.562461835127817,Retração,2816175.0,-6.15,Forte retração
+5102793,Carlinda,MT,373988.0,423098.0,13.131437372322075,Forte crescimento,407369.0,-3.72,Forte crescimento
+5102850,Castanheira,MT,217319.0,261557.0,20.35625048891272,Forte crescimento,235936.0,-9.8,Forte crescimento
+5103007,Chapada dos Guimarães,MT,1386948.0,1817596.0,31.050046577088498,Forte crescimento,1448346.0,-20.32,Crescimento moderado
+5103056,Cláudia,MT,1189669.0,1192573.0,0.24410151058826823,Estabilidade,1081891.0,-9.28,Forte retração
+5103106,Cocalinho,MT,348086.0,363690.0,4.482800227529937,Crescimento moderado,336851.0,-7.38,Retração
+5103205,Colíder,MT,1544915.0,1958222.0,26.752733969182785,Forte crescimento,1634029.0,-16.56,Forte crescimento
+5103254,Colniza,MT,781097.0,852175.0,9.099766098192719,Forte crescimento,841192.0,-1.29,Forte crescimento
+5103304,Comodoro,MT,1123199.0,1088026.0,-3.131502075767467,Retração,1167722.0,7.32,Crescimento moderado
+5103353,Confresa,MT,1746499.0,1967776.0,12.66974673332182,Forte crescimento,1695954.0,-13.81,Retração
+5103361,Conquista D'Oeste,MT,157866.0,179152.0,13.483587346230452,Forte crescimento,164742.0,-8.04,Crescimento moderado
+5103379,Cotriguaçu,MT,271309.0,327751.0,20.803585579542293,Forte crescimento,314184.0,-4.14,Forte crescimento
+5103403,Cuiabá,MT,34153881.0,39050753.0,14.337673659986194,Forte crescimento,38465570.0,-1.5,Forte crescimento
+5103437,Curvelândia,MT,136476.0,135779.0,-0.5107125062281725,Estabilidade,130630.0,-3.79,Retração
+5103452,Denise,MT,503915.0,777254.0,54.24307670936565,Forte crescimento,563011.0,-27.56,Forte crescimento
+5103502,Diamantino,MT,5401805.0,5741878.0,6.295543804339432,Forte crescimento,5366828.0,-6.53,Estabilidade
+5103601,Dom Aquino,MT,739336.0,724834.0,-1.9614897691983435,Retração,579798.0,-20.01,Forte retração
+5103700,Feliz Natal,MT,1209071.0,1151311.0,-4.777221519662578,Retração,1088635.0,-5.44,Forte retração
+5103809,Figueirópolis D'Oeste,MT,90431.0,112557.0,24.467273390762067,Forte crescimento,98597.0,-12.4,Forte crescimento
+5103858,Gaúcha do Norte,MT,1447641.0,1385921.0,-4.263487978027614,Retração,1272020.0,-8.22,Forte retração
+5103908,General Carneiro,MT,595399.0,506493.0,-14.932171535390538,Forte retração,452621.0,-10.64,Forte retração
+5103957,Glória D'Oeste,MT,89134.0,115168.0,29.207709740391042,Forte crescimento,97606.0,-15.25,Forte crescimento
+5104104,Guarantã do Norte,MT,1082920.0,1286329.0,18.78338196727367,Forte crescimento,1221655.0,-5.03,Forte crescimento
+5104203,Guiratinga,MT,748424.0,706016.0,-5.6663067993543255,Forte retração,619360.0,-12.27,Forte retração
+5104500,Indiavaí,MT,105729.0,109660.0,3.717996008663671,Crescimento moderado,108825.0,-0.76,Crescimento moderado
+5104526,Ipiranga do Norte,MT,2182478.0,2175037.0,-0.3409427265704812,Estabilidade,1705543.0,-21.59,Forte retração
+5104542,Itanhangá,MT,816015.0,856166.0,4.920375238200325,Crescimento moderado,753683.0,-11.97,Forte retração
+5104559,Itaúba,MT,596681.0,666707.0,11.735919193002609,Forte crescimento,604780.0,-9.29,Crescimento moderado
+5104609,Itiquira,MT,2231710.0,2049319.0,-8.172701650304026,Forte retração,1800485.0,-12.14,Forte retração
+5104807,Jaciara,MT,1401159.0,1711568.0,22.153731303870707,Forte crescimento,1378620.0,-19.45,Retração
+5104906,Jangada,MT,182481.0,210301.0,15.245422811141918,Forte crescimento,199795.0,-5.0,Forte crescimento
+5105002,Jauru,MT,330596.0,371424.0,12.349816694696901,Forte crescimento,343332.0,-7.56,Crescimento moderado
+5105101,Juara,MT,1555633.0,1859025.0,19.502800467719595,Forte crescimento,1736009.0,-6.62,Forte crescimento
+5105150,Juína,MT,1538462.0,1845536.0,19.959804012058747,Forte crescimento,1742470.0,-5.58,Forte crescimento
+5105176,Juruena,MT,304752.0,386051.0,26.677101380794866,Forte crescimento,330709.0,-14.34,Forte crescimento
+5105200,Juscimeira,MT,554939.0,555049.0,0.019821998453961598,Estabilidade,487560.0,-12.16,Forte retração
+5105234,Lambari D'Oeste,MT,272835.0,284219.0,4.172485201678655,Crescimento moderado,295039.0,3.81,Forte crescimento
+5105259,Lucas do Rio Verde,MT,8003926.0,8238966.0,2.936558883727902,Crescimento moderado,7849392.0,-4.73,Retração
+5105309,Luciara,MT,54686.0,95374.0,74.40295505248172,Forte crescimento,88403.0,-7.31,Forte crescimento
+5105507,Vila Bela da Santíssima Trindade,MT,733512.0,946663.0,29.058965633827327,Forte crescimento,779480.0,-17.66,Forte crescimento
+5105580,Marcelândia,MT,949768.0,1029292.0,8.3729921412387,Forte crescimento,994946.0,-3.34,Crescimento moderado
+5105606,Matupá,MT,1625932.0,1790694.0,10.133388112171815,Forte crescimento,1630999.0,-8.92,Estabilidade
+5105622,Mirassol d'Oeste,MT,1025802.0,1163379.0,13.411652541133634,Forte crescimento,1137323.0,-2.24,Forte crescimento
+5105903,Nobres,MT,1181391.0,1492553.0,26.33861270316089,Forte crescimento,1186503.0,-20.51,Estabilidade
+5106000,Nortelândia,MT,344518.0,399399.0,15.929791767048386,Forte crescimento,356572.0,-10.72,Crescimento moderado
+5106109,Nossa Senhora do Livramento,MT,375822.0,433626.0,15.380685537302185,Forte crescimento,380304.0,-12.3,Crescimento moderado
+5106158,Nova Bandeirantes,MT,404641.0,506046.0,25.06048571449737,Forte crescimento,489229.0,-3.32,Forte crescimento
+5106174,Nova Nazaré,MT,182489.0,183702.0,0.6646975982115055,Estabilidade,176065.0,-4.16,Retração
+5106182,Nova Lacerda,MT,390805.0,486837.0,24.57286882204679,Forte crescimento,413316.0,-15.1,Forte crescimento
+5106190,Nova Santa Helena,MT,446336.0,483791.0,8.391660094637121,Forte crescimento,431406.0,-10.83,Retração
+5106208,Nova Brasilândia,MT,150092.0,216720.0,44.39143991685095,Forte crescimento,207312.0,-4.34,Forte crescimento
+5106216,Nova Canaã do Norte,MT,972702.0,1057942.0,8.763218334083799,Forte crescimento,945294.0,-10.65,Retração
+5106224,Nova Mutum,MT,7464906.0,7647129.0,2.4410622183320463,Crescimento moderado,7188744.0,-5.99,Retração
+5106232,Nova Olímpia,MT,925054.0,771964.0,-16.54930414873079,Forte retração,967072.0,25.27,Crescimento moderado
+5106240,Nova Ubiratã,MT,3432071.0,3184847.0,-7.203347483196065,Forte retração,2610914.0,-18.02,Forte retração
+5106257,Nova Xavantina,MT,1029677.0,1185192.0,15.103279960609006,Forte crescimento,1053419.0,-11.12,Crescimento moderado
+5106265,Novo Mundo,MT,593945.0,626984.0,5.562636271035082,Forte crescimento,609372.0,-2.81,Crescimento moderado
+5106273,Novo Horizonte do Norte,MT,97561.0,132646.0,35.962116009470904,Forte crescimento,122945.0,-7.31,Forte crescimento
+5106281,Novo São Joaquim,MT,1070882.0,930872.0,-13.074269620742495,Forte retração,812359.0,-12.73,Forte retração
+5106299,Paranaíta,MT,756270.0,833109.0,10.160260224522899,Forte crescimento,810638.0,-2.7,Forte crescimento
+5106307,Paranatinga,MT,2601146.0,2920746.0,12.28689200836859,Forte crescimento,2757139.0,-5.6,Forte crescimento
+5106315,Novo Santo Antônio,MT,64419.0,71503.0,10.99675561557929,Forte crescimento,69679.0,-2.55,Forte crescimento
+5106372,Pedra Preta,MT,1462613.0,1490775.0,1.9254580671716148,Crescimento moderado,1311467.0,-12.03,Forte retração
+5106422,Peixoto de Azevedo,MT,995051.0,1146389.0,15.209069685875342,Forte crescimento,1081504.0,-5.66,Forte crescimento
+5106455,Planalto da Serra,MT,314834.0,296060.0,-5.963142481434646,Forte retração,285203.0,-3.67,Forte retração
+5106505,Poconé,MT,814582.0,861874.0,5.805677022079969,Forte crescimento,842457.0,-2.25,Crescimento moderado
+5106653,Pontal do Araguaia,MT,135251.0,244682.0,80.90956813627994,Forte crescimento,133537.0,-45.42,Retração
+5106703,Ponte Branca,MT,38418.0,49856.0,29.772502472799257,Forte crescimento,40648.0,-18.47,Forte crescimento
+5106752,Pontes e Lacerda,MT,2278640.0,2856805.0,25.37324895551731,Forte crescimento,2468652.0,-13.59,Forte crescimento
+5106778,Porto Alegre do Norte,MT,655065.0,558330.0,-14.76723683909239,Forte retração,519679.0,-6.92,Forte retração
+5106802,Porto dos Gaúchos,MT,1550521.0,1444695.0,-6.825189726549907,Forte retração,1209984.0,-16.25,Forte retração
+5106828,Porto Esperidião,MT,273513.0,323734.0,18.361467279434617,Forte crescimento,290634.0,-10.22,Forte crescimento
+5106851,Porto Estrela,MT,87760.0,99847.0,13.772789425706499,Forte crescimento,95632.0,-4.22,Forte crescimento
+5107008,Poxoréu,MT,1203312.0,1242007.0,3.215707979310367,Crescimento moderado,1087136.0,-12.47,Forte retração
+5107040,Primavera do Leste,MT,7988769.0,8571209.0,7.290735280992555,Forte crescimento,7865201.0,-8.24,Retração
+5107065,Querência,MT,3909820.0,3771292.0,-3.543078709505909,Retração,3905214.0,3.55,Estabilidade
+5107107,São José dos Quatro Marcos,MT,471805.0,550358.0,16.649463231631856,Forte crescimento,487189.0,-11.48,Crescimento moderado
+5107156,Reserva do Cabaçal,MT,46372.0,54024.0,16.501337013715258,Forte crescimento,49551.0,-8.28,Forte crescimento
+5107180,Ribeirão Cascalheira,MT,801786.0,814506.0,1.5864582319970566,Crescimento moderado,743126.0,-8.76,Forte retração
+5107198,Ribeirãozinho,MT,199828.0,192864.0,-3.484997097503939,Retração,173595.0,-9.99,Forte retração
+5107206,Rio Branco,MT,110387.0,129895.0,17.672370840769336,Forte crescimento,117319.0,-9.68,Forte crescimento
+5107248,Santa Carmem,MT,1176355.0,1133113.0,-3.6759311602365785,Retração,1029720.0,-9.12,Forte retração
+5107263,Santo Afonso,MT,169627.0,193731.0,14.210001945444994,Forte crescimento,176974.0,-8.65,Crescimento moderado
+5107297,São José do Povo,MT,62482.0,70176.0,12.313946416568044,Forte crescimento,63379.0,-9.69,Crescimento moderado
+5107305,São José do Rio Claro,MT,1634358.0,1683036.0,2.9784172133645592,Crescimento moderado,1493389.0,-11.27,Forte retração
+5107354,São José do Xingu,MT,1039023.0,843182.0,-18.848572168277343,Forte retração,783981.0,-7.02,Forte retração
+5107404,São Pedro da Cipa,MT,77884.0,81085.0,4.1099583996711875,Crescimento moderado,74437.0,-8.2,Retração
+5107578,Rondolândia,MT,126018.0,135694.0,7.67826818391022,Forte crescimento,136432.0,0.54,Forte crescimento
+5107602,Rondonópolis,MT,15869902.0,16568250.0,4.400455654987634,Crescimento moderado,16949772.0,2.3,Forte crescimento
+5107701,Rosário Oeste,MT,568250.0,650377.0,14.452617685877733,Forte crescimento,595994.0,-8.36,Crescimento moderado
+5107743,Santa Cruz do Xingu,MT,334645.0,601239.0,79.66471932943877,Forte crescimento,582027.0,-3.2,Forte crescimento
+5107750,Salto do Céu,MT,100560.0,120131.0,19.46201272871919,Forte crescimento,108559.0,-9.63,Forte crescimento
+5107768,Santa Rita do Trivelato,MT,1409325.0,1341337.0,-4.824153406772835,Retração,1180021.0,-12.03,Forte retração
+5107776,Santa Terezinha,MT,320970.0,306137.0,-4.621304171729401,Retração,280610.0,-8.34,Forte retração
+5107792,Santo Antônio do Leste,MT,1165372.0,1313632.0,12.722117915995934,Forte crescimento,1057881.0,-19.47,Forte retração
+5107800,Santo Antônio de Leverger,MT,803332.0,743717.0,-7.420966673803697,Forte retração,646271.0,-13.1,Forte retração
+5107859,São Félix do Araguaia,MT,2172963.0,2351792.0,8.229730556848015,Forte crescimento,2274595.0,-3.28,Crescimento moderado
+5107875,Sapezal,MT,5842523.0,6410247.0,9.717103381535708,Forte crescimento,5427042.0,-15.34,Forte retração
+5107883,Serra Nova Dourada,MT,127712.0,160052.0,25.322600851916867,Forte crescimento,156802.0,-2.03,Forte crescimento
+5107909,Sinop,MT,11650411.0,11736047.0,0.7350470296713318,Estabilidade,12415562.0,5.79,Forte crescimento
+5107925,Sorriso,MT,14387658.0,13748757.0,-4.440618480088787,Retração,13615030.0,-0.97,Forte retração
+5107941,Tabaporã,MT,1660090.0,1540339.0,-7.213524567945084,Forte retração,1275396.0,-17.2,Forte retração
+5107958,Tangará da Serra,MT,4811646.0,5602200.0,16.430011684151346,Forte crescimento,4887969.0,-12.75,Crescimento moderado
+5108006,Tapurah,MT,2367328.0,2467467.0,4.230043323105304,Crescimento moderado,2103048.0,-14.77,Forte retração
+5108055,Terra Nova do Norte,MT,526159.0,571448.0,8.607474166554162,Forte crescimento,487506.0,-14.69,Forte retração
+5108105,Tesouro,MT,329492.0,326968.0,-0.7660277032522145,Estabilidade,303905.0,-7.05,Forte retração
+5108204,Torixoréu,MT,275071.0,241589.0,-12.172130104591183,Forte retração,216013.0,-10.59,Forte retração
+5108303,União do Sul,MT,611917.0,601637.0,-1.6799664006719173,Retração,536905.0,-10.76,Forte retração
+5108352,Vale de São Domingos,MT,102217.0,81318.0,-20.44571842257158,Forte retração,86173.0,5.97,Forte retração
+5108402,Várzea Grande,MT,11559596.0,13984218.0,20.974971789671336,Forte crescimento,13073171.0,-6.51,Forte crescimento
+5108501,Vera,MT,1476865.0,1504304.0,1.857922017245972,Crescimento moderado,1157127.0,-23.08,Forte retração
+5108600,Vila Rica,MT,889825.0,920621.0,3.4609052341753266,Crescimento moderado,831220.0,-9.71,Forte retração
+5108808,Nova Guarita,MT,202283.0,236922.0,17.12402920660665,Forte crescimento,215686.0,-8.96,Forte crescimento
+5108857,Nova Marilândia,MT,651212.0,551799.0,-15.265842767025129,Forte retração,670982.0,21.6,Crescimento moderado
+5108907,Nova Maringá,MT,1256418.0,1490869.0,18.6602707060866,Forte crescimento,1329899.0,-10.8,Forte crescimento
+5108956,Nova Monte Verde,MT,368307.0,441951.0,19.99527568034263,Forte crescimento,415465.0,-5.99,Forte crescimento
+5200050,Abadia de Goiás,GO,405353.0,477983.0,17.91771616344264,Forte crescimento,448122.0,-6.25,Forte crescimento
+5200100,Abadiânia,GO,544312.0,633025.0,16.29818927379887,Forte crescimento,606444.0,-4.2,Forte crescimento
+5200134,Acreúna,GO,1456803.0,1188179.0,-18.439281083303673,Forte retração,1173596.0,-1.23,Forte retração
+5200159,Adelândia,GO,53664.0,59486.0,10.84898628503268,Forte crescimento,57743.0,-2.93,Forte crescimento
+5200175,Água Fria de Goiás,GO,616437.0,476288.0,-22.73533223995303,Forte retração,466861.0,-1.98,Forte retração
+5200209,Água Limpa,GO,66332.0,74935.0,12.969607429294939,Forte crescimento,71221.0,-4.96,Forte crescimento
+5200258,Águas Lindas de Goiás,GO,2814337.0,3062185.0,8.80662123974487,Forte crescimento,3205417.0,4.68,Forte crescimento
+5200308,Alexânia,GO,1493905.0,1832281.0,22.650436272721453,Forte crescimento,1603279.0,-12.5,Forte crescimento
+5200506,Aloândia,GO,78701.0,66408.0,-15.619877765212753,Forte retração,74538.0,12.24,Forte retração
+5200555,Alto Horizonte,GO,737308.0,623006.0,-15.502612205482691,Forte retração,711587.0,14.22,Retração
+5200605,Alto Paraíso de Goiás,GO,402805.0,408322.0,1.3696453618996962,Crescimento moderado,387777.0,-5.03,Retração
+5200803,Alvorada do Norte,GO,209335.0,223109.0,6.579883918121698,Forte crescimento,225596.0,1.11,Forte crescimento
+5200829,Amaralina,GO,110398.0,124601.0,12.865269298356896,Forte crescimento,116734.0,-6.31,Forte crescimento
+5200852,Americano do Brasil,GO,97738.0,106099.0,8.554502854570313,Forte crescimento,106401.0,0.28,Forte crescimento
+5200902,Amorinópolis,GO,130087.0,130845.0,0.5826869710270577,Estabilidade,128829.0,-1.54,Estabilidade
+5201108,Anápolis,GO,19393187.0,20432109.0,5.357149394784866,Forte crescimento,21607679.0,5.75,Forte crescimento
+5201207,Anhanguera,GO,23037.0,26738.0,16.065459912315028,Forte crescimento,25791.0,-3.54,Forte crescimento
+5201306,Anicuns,GO,729133.0,730524.0,0.19077452261782035,Estabilidade,723607.0,-0.95,Estabilidade
+5201405,Aparecida de Goiânia,GO,19197776.0,20888937.0,8.80915060161147,Forte crescimento,21622153.0,3.51,Forte crescimento
+5201454,Aparecida do Rio Doce,GO,133888.0,151337.0,13.032534655831697,Forte crescimento,144661.0,-4.41,Forte crescimento
+5201504,Aporé,GO,574539.0,518582.0,-9.739460680650136,Forte retração,467127.0,-9.92,Forte retração
+5201603,Araçu,GO,79947.0,87232.0,9.112286890064691,Forte crescimento,86289.0,-1.08,Forte crescimento
+5201702,Aragarças,GO,316671.0,360573.0,13.863599761266387,Forte crescimento,356516.0,-1.13,Forte crescimento
+5201801,Aragoiânia,GO,215373.0,237889.0,10.454420934843323,Forte crescimento,242735.0,2.04,Forte crescimento
+5202155,Araguapaz,GO,220784.0,252818.0,14.509203565475804,Forte crescimento,226180.0,-10.54,Crescimento moderado
+5202353,Arenópolis,GO,244357.0,268947.0,10.063145316074307,Forte crescimento,257357.0,-4.31,Forte crescimento
+5202502,Aruanã,GO,353549.0,379921.0,7.45922064551181,Forte crescimento,372490.0,-1.96,Forte crescimento
+5202601,Aurilândia,GO,88517.0,111363.0,25.809731464012444,Forte crescimento,100413.0,-9.83,Forte crescimento
+5202809,Avelinópolis,GO,86600.0,83608.0,-3.454965357967754,Retração,80484.0,-3.74,Forte retração
+5203104,Baliza,GO,140014.0,175462.0,25.317468253174713,Forte crescimento,161006.0,-8.24,Forte crescimento
+5203203,Barro Alto,GO,2308283.0,1686187.0,-26.95059487939735,Forte retração,2312112.0,37.12,Estabilidade
+5203302,Bela Vista de Goiás,GO,1776808.0,1983166.0,11.613972922229166,Forte crescimento,1779807.0,-10.25,Estabilidade
+5203401,Bom Jardim de Goiás,GO,370231.0,418166.0,12.94732207729763,Forte crescimento,419334.0,0.28,Forte crescimento
+5203500,Bom Jesus de Goiás,GO,1694252.0,1512295.0,-10.739665645960528,Forte retração,1645257.0,8.79,Retração
+5203559,Bonfinópolis,GO,135489.0,158520.0,16.998427916657466,Forte crescimento,152608.0,-3.73,Forte crescimento
+5203575,Bonópolis,GO,320198.0,282294.0,-11.837675438322536,Forte retração,283468.0,0.42,Forte retração
+5203609,Brazabrantes,GO,100987.0,106412.0,5.371978571499314,Forte crescimento,106508.0,0.09,Forte crescimento
+5203807,Britânia,GO,249704.0,305497.0,22.343654887386542,Forte crescimento,301040.0,-1.46,Forte crescimento
+5203906,Buriti Alegre,GO,543167.0,561621.0,3.397481805779834,Crescimento moderado,568759.0,1.27,Crescimento moderado
+5203939,Buriti de Goiás,GO,63515.0,78971.0,24.334409194678464,Forte crescimento,69111.0,-12.49,Forte crescimento
+5203962,Buritinópolis,GO,87658.0,68010.0,-22.414383170959763,Forte retração,94175.0,38.47,Forte crescimento
+5204003,Cabeceiras,GO,582979.0,484328.0,-16.921878832685234,Forte retração,450158.0,-7.06,Forte retração
+5204102,Cachoeira Alta,GO,336768.0,365150.0,8.427760357278768,Forte crescimento,368683.0,0.97,Forte crescimento
+5204201,Cachoeira de Goiás,GO,40830.0,45522.0,11.4915503306392,Forte crescimento,44689.0,-1.83,Forte crescimento
+5204250,Cachoeira Dourada,GO,987682.0,890576.0,-9.831706966412135,Forte retração,989380.0,11.09,Estabilidade
+5204300,Caçu,GO,997750.0,1219984.0,22.273515409671706,Forte crescimento,1056915.0,-13.37,Forte crescimento
+5204409,Caiapônia,GO,1026342.0,1456338.0,41.89597619506937,Forte crescimento,1285892.0,-11.7,Forte crescimento
+5204508,Caldas Novas,GO,3407345.0,3782024.0,10.996215528512533,Forte crescimento,3641887.0,-3.71,Forte crescimento
+5204557,Caldazinha,GO,93321.0,103502.0,10.909655918817919,Forte crescimento,99783.0,-3.59,Forte crescimento
+5204607,Campestre de Goiás,GO,78141.0,78260.0,0.15228881125151084,Estabilidade,74635.0,-4.63,Retração
+5204656,Campinaçu,GO,122480.0,135965.0,11.009960809928154,Forte crescimento,129424.0,-4.81,Forte crescimento
+5204706,Campinorte,GO,402543.0,422671.0,5.000211157565748,Forte crescimento,448276.0,6.06,Forte crescimento
+5204805,Campo Alegre de Goiás,GO,898585.0,964885.0,7.378266941914213,Forte crescimento,927443.0,-3.88,Crescimento moderado
+5204854,Campo Limpo de Goiás,GO,190040.0,237751.0,25.10576720690374,Forte crescimento,208881.0,-12.14,Forte crescimento
+5204904,Campos Belos,GO,365495.0,404844.0,10.765947550582178,Forte crescimento,412073.0,1.79,Forte crescimento
+5204953,Campos Verdes,GO,71228.0,80964.0,13.668781939686703,Forte crescimento,80215.0,-0.93,Forte crescimento
+5205000,Carmo do Rio Verde,GO,656878.0,543627.0,-17.24079661672332,Forte retração,690087.0,26.94,Forte crescimento
+5205059,Castelândia,GO,111743.0,140321.0,25.5747563605774,Forte crescimento,142024.0,1.21,Forte crescimento
+5205109,Catalão,GO,11139337.0,10345993.0,-7.122003760188045,Forte retração,11502184.0,11.18,Crescimento moderado
+5205208,Caturaí,GO,109160.0,126676.0,16.046170758519573,Forte crescimento,122167.0,-3.56,Forte crescimento
+5205307,Cavalcante,GO,368132.0,373219.0,1.3818412960568516,Crescimento moderado,407705.0,9.24,Forte crescimento
+5205406,Ceres,GO,846104.0,986057.0,16.54087440787424,Forte crescimento,957462.0,-2.9,Forte crescimento
+5205455,Cezarina,GO,529151.0,533170.0,0.7595185495256063,Estabilidade,532871.0,-0.06,Estabilidade
+5205471,Chapadão do Céu,GO,3144083.0,2486006.0,-20.93064973157527,Forte retração,2947501.0,18.56,Forte retração
+5205497,Cidade Ocidental,GO,1207175.0,1351013.0,11.915256694348319,Forte crescimento,1354493.0,0.26,Forte crescimento
+5205513,Cocalzinho de Goiás,GO,500549.0,530183.0,5.920299511136817,Forte crescimento,549265.0,3.6,Forte crescimento
+5205521,Colinas do Sul,GO,87147.0,87397.0,0.28687160774318876,Estabilidade,94394.0,8.01,Forte crescimento
+5205703,Córrego do Ouro,GO,77066.0,87370.0,13.370357875068105,Forte crescimento,84692.0,-3.07,Forte crescimento
+5205802,Corumbá de Goiás,GO,281209.0,340461.0,21.070449381065327,Forte crescimento,335461.0,-1.47,Forte crescimento
+5205901,Corumbaíba,GO,864716.0,1081678.0,25.0905499609122,Forte crescimento,900648.0,-16.74,Crescimento moderado
+5206206,Cristalina,GO,5747946.0,5707718.0,-0.6998673961098323,Estabilidade,5480782.0,-3.98,Retração
+5206305,Cristianópolis,GO,134766.0,134732.0,-0.025228915305042232,Estabilidade,131409.0,-2.47,Retração
+5206404,Crixás,GO,613757.0,611859.0,-0.3092429088385362,Estabilidade,648867.0,6.05,Forte crescimento
+5206503,Cromínia,GO,130555.0,140959.0,7.96905518746891,Forte crescimento,139251.0,-1.21,Forte crescimento
+5206602,Cumari,GO,100192.0,115381.0,15.15989300542946,Forte crescimento,110097.0,-4.58,Forte crescimento
+5206701,Damianópolis,GO,51962.0,59529.0,14.562564951310675,Forte crescimento,57956.0,-2.64,Forte crescimento
+5206800,Damolândia,GO,54856.0,60604.0,10.478343298818672,Forte crescimento,60435.0,-0.28,Forte crescimento
+5206909,Davinópolis,GO,484725.0,496504.0,2.4300376502140786,Crescimento moderado,469906.0,-5.36,Retração
+5207105,Diorama,GO,128987.0,121731.0,-5.625373099614583,Forte retração,121795.0,0.05,Forte retração
+5207253,Doverlândia,GO,452890.0,682108.0,50.61228996003453,Forte crescimento,639405.0,-6.26,Forte crescimento
+5207352,Edealina,GO,532335.0,516263.0,-3.0191514741655823,Retração,523794.0,1.46,Retração
+5207402,Edéia,GO,1197314.0,1196283.0,-0.0861094082253877,Estabilidade,1191293.0,-0.42,Estabilidade
+5207501,Estrela do Norte,GO,85989.0,113691.0,32.21574852597415,Forte crescimento,92553.0,-18.59,Forte crescimento
+5207535,Faina,GO,184745.0,211347.0,14.399307153102935,Forte crescimento,200695.0,-5.04,Forte crescimento
+5207600,Fazenda Nova,GO,184039.0,248809.0,35.19362743766277,Forte crescimento,224866.0,-9.62,Forte crescimento
+5207808,Firminópolis,GO,321738.0,351013.0,9.099018456010777,Forte crescimento,315841.0,-10.02,Retração
+5207907,Flores de Goiás,GO,257902.0,287569.0,11.503206644384223,Forte crescimento,290826.0,1.13,Forte crescimento
+5208004,Formosa,GO,3836842.0,3918239.0,2.1214582200675514,Crescimento moderado,4093119.0,4.46,Forte crescimento
+5208103,Formoso,GO,121775.0,133520.0,9.644836789160284,Forte crescimento,134061.0,0.41,Forte crescimento
+5208152,Gameleira de Goiás,GO,327275.0,244382.0,-25.328240776105726,Forte retração,247717.0,1.36,Forte retração
+5208301,Divinópolis de Goiás,GO,105752.0,113665.0,7.48260080187626,Forte crescimento,115810.0,1.89,Forte crescimento
+5208400,Goianápolis,GO,338710.0,396359.0,17.02016474270018,Forte crescimento,370750.0,-6.46,Forte crescimento
+5208509,Goiandira,GO,185999.0,210732.0,13.297383319265133,Forte crescimento,209711.0,-0.48,Forte crescimento
+5208608,Goianésia,GO,2340499.0,2691742.0,15.007184365385239,Forte crescimento,2635027.0,-2.11,Forte crescimento
+5208707,Goiânia,GO,66273858.0,75780846.0,14.345004632143077,Forte crescimento,74017517.0,-2.33,Forte crescimento
+5208806,Goianira,GO,1465103.0,1604687.0,9.527248254900943,Forte crescimento,1636912.0,2.01,Forte crescimento
+5208905,Goiás,GO,760982.0,793947.0,4.331902725688619,Crescimento moderado,830537.0,4.61,Forte crescimento
+5209101,Goiatuba,GO,2732049.0,2725200.0,-0.25069096491318055,Estabilidade,2875999.0,5.53,Forte crescimento
+5209150,Gouvelândia,GO,283453.0,338160.0,19.300201444331023,Forte crescimento,334427.0,-1.1,Forte crescimento
+5209200,Guapó,GO,448765.0,497334.0,10.822813722103986,Forte crescimento,499289.0,0.39,Forte crescimento
+5209291,Guaraíta,GO,55038.0,60565.0,10.042152694501883,Forte crescimento,57870.0,-4.45,Forte crescimento
+5209408,Guarani de Goiás,GO,91931.0,100115.0,8.902328920603564,Forte crescimento,97662.0,-2.45,Forte crescimento
+5209457,Guarinos,GO,72419.0,73547.0,1.5576022866926387,Crescimento moderado,80130.0,8.95,Forte crescimento
+5209606,Heitoraí,GO,85602.0,96557.0,12.797598186958137,Forte crescimento,93963.0,-2.69,Forte crescimento
+5209705,Hidrolândia,GO,1479825.0,1528149.0,3.2655212609598028,Crescimento moderado,1664243.0,8.91,Forte crescimento
+5209804,Hidrolina,GO,102503.0,110997.0,8.286586734046764,Forte crescimento,108492.0,-2.26,Forte crescimento
+5209903,Iaciara,GO,230099.0,265592.0,15.425099631028537,Forte crescimento,254577.0,-4.15,Forte crescimento
+5209937,Inaciolândia,GO,404147.0,373361.0,-7.617525306386053,Forte retração,373736.0,0.1,Forte retração
+5209952,Indiara,GO,782637.0,754047.0,-3.653034548583811,Retração,772990.0,2.51,Retração
+5210000,Inhumas,GO,1717480.0,1880643.0,9.500139739618652,Forte crescimento,1783528.0,-5.16,Crescimento moderado
+5210109,Ipameri,GO,2858914.0,2797965.0,-2.131893439256871,Retração,3012642.0,7.67,Forte crescimento
+5210158,Ipiranga de Goiás,GO,95534.0,95822.0,0.30146335336103114,Estabilidade,90334.0,-5.73,Forte retração
+5210208,Iporá,GO,1098898.0,1227631.0,11.714736035555662,Forte crescimento,1233089.0,0.44,Forte crescimento
+5210307,Israelândia,GO,82656.0,90980.0,10.070654277971357,Forte crescimento,86469.0,-4.96,Crescimento moderado
+5210406,Itaberaí,GO,2164544.0,2305609.0,6.5170770379351595,Forte crescimento,2278299.0,-1.18,Forte crescimento
+5210562,Itaguari,GO,121329.0,126630.0,4.369112083673277,Crescimento moderado,131183.0,3.6,Forte crescimento
+5210604,Itaguaru,GO,110284.0,119889.0,8.70933226941364,Forte crescimento,121722.0,1.53,Forte crescimento
+5210802,Itajá,GO,139352.0,188306.0,35.129743383661506,Forte crescimento,162514.0,-13.7,Forte crescimento
+5210901,Itapaci,GO,631234.0,599908.0,-4.962660439710165,Retração,662434.0,10.42,Crescimento moderado
+5211008,Itapirapuã,GO,274553.0,300251.0,9.359941432073215,Forte crescimento,284477.0,-5.25,Crescimento moderado
+5211206,Itapuranga,GO,670131.0,734913.0,9.667065096227368,Forte crescimento,709146.0,-3.51,Forte crescimento
+5211305,Itarumã,GO,365933.0,412359.0,12.687021941175036,Forte crescimento,387221.0,-6.1,Forte crescimento
+5211404,Itauçu,GO,301871.0,359651.0,19.140626294013053,Forte crescimento,322939.0,-10.21,Forte crescimento
+5211503,Itumbiara,GO,6509933.0,6555376.0,0.6980563394430872,Estabilidade,7104054.0,8.37,Forte crescimento
+5211602,Ivolândia,GO,151243.0,145722.0,-3.65041687879768,Retração,165217.0,13.38,Forte crescimento
+5211701,Jandaia,GO,502063.0,446723.0,-11.022521078032078,Forte retração,478720.0,7.16,Retração
+5211800,Jaraguá,GO,1067821.0,1205296.0,12.874348790667977,Forte crescimento,1192989.0,-1.02,Forte crescimento
+5211909,Jataí,GO,10563395.0,10026117.0,-5.086224646527027,Forte retração,10495643.0,4.68,Estabilidade
+5212006,Jaupaci,GO,105008.0,112607.0,7.236591497790745,Forte crescimento,110027.0,-2.29,Crescimento moderado
+5212055,Jesúpolis,GO,44294.0,51232.0,15.663521018648009,Forte crescimento,51994.0,1.49,Forte crescimento
+5212105,Joviânia,GO,462962.0,423165.0,-8.5961698800333,Forte retração,436355.0,3.12,Forte retração
+5212204,Jussara,GO,838117.0,884366.0,5.518203305743574,Forte crescimento,926708.0,4.79,Forte crescimento
+5212253,Lagoa Santa,GO,58209.0,67251.0,15.533680358707347,Forte crescimento,62994.0,-6.33,Forte crescimento
+5212303,Leopoldo de Bulhões,GO,380977.0,452342.0,18.732101937912216,Forte crescimento,369466.0,-18.32,Retração
+5212501,Luziânia,GO,6279119.0,6264671.0,-0.23009597365490908,Estabilidade,6475461.0,3.36,Crescimento moderado
+5212600,Mairipotaba,GO,96454.0,101348.0,5.073921247433955,Forte crescimento,98207.0,-3.1,Crescimento moderado
+5212709,Mambaí,GO,124921.0,139650.0,11.790651691869236,Forte crescimento,141024.0,0.98,Forte crescimento
+5212808,Mara Rosa,GO,344860.0,411528.0,19.331902801136593,Forte crescimento,380300.0,-7.59,Forte crescimento
+5212907,Marzagão,GO,73425.0,76281.0,3.88968335035762,Crescimento moderado,81541.0,6.9,Forte crescimento
+5212956,Matrinchã,GO,210835.0,225035.0,6.73512462352075,Forte crescimento,204196.0,-9.26,Retração
+5213004,Maurilândia,GO,367298.0,327508.0,-10.833165440595959,Forte retração,344600.0,5.22,Forte retração
+5213053,Mimoso de Goiás,GO,252300.0,179168.0,-28.986127625842173,Forte retração,188142.0,5.01,Forte retração
+5213087,Minaçu,GO,1104594.0,1286497.0,16.467860589501694,Forte crescimento,1098888.0,-14.58,Estabilidade
+5213103,Mineiros,GO,4410757.0,4536325.0,2.8468582603847326,Crescimento moderado,4541101.0,0.11,Crescimento moderado
+5213400,Moiporá,GO,56828.0,73136.0,28.697121137467608,Forte crescimento,71334.0,-2.46,Forte crescimento
+5213509,Monte Alegre de Goiás,GO,132508.0,141790.0,7.004860083919362,Forte crescimento,130006.0,-8.31,Retração
+5213707,Montes Claros de Goiás,GO,791211.0,818049.0,3.3920155306233823,Crescimento moderado,817516.0,-0.07,Crescimento moderado
+5213756,Montividiu,GO,1836670.0,1619839.0,-11.805659154883575,Forte retração,1390744.0,-14.14,Forte retração
+5213772,Montividiu do Norte,GO,119245.0,124015.0,4.000167721917092,Crescimento moderado,117090.0,-5.58,Retração
+5213806,Morrinhos,GO,2416416.0,2524023.0,4.453165349012789,Crescimento moderado,2412626.0,-4.41,Estabilidade
+5213855,Morro Agudo de Goiás,GO,62113.0,68988.0,11.068536377248028,Forte crescimento,67654.0,-1.93,Forte crescimento
+5213905,Mossâmedes,GO,176663.0,170963.0,-3.226482059061697,Retração,174293.0,1.95,Retração
+5214002,Mozarlândia,GO,948329.0,1366986.0,44.146809809675666,Forte crescimento,989248.0,-27.63,Crescimento moderado
+5214051,Mundo Novo,GO,218704.0,319880.0,46.261613870802584,Forte crescimento,279736.0,-12.55,Forte crescimento
+5214101,Mutunópolis,GO,92786.0,105711.0,13.929903218157946,Forte crescimento,95444.0,-9.71,Crescimento moderado
+5214408,Nazário,GO,338764.0,313258.0,-7.52913532724846,Forte retração,350838.0,12.0,Crescimento moderado
+5214507,Nerópolis,GO,1268863.0,1548492.0,22.03776136588431,Forte crescimento,1425291.0,-7.96,Forte crescimento
+5214606,Niquelândia,GO,1345074.0,1516123.0,12.716698114750447,Forte crescimento,1476354.0,-2.62,Forte crescimento
+5214705,Nova América,GO,57608.0,60721.0,5.403763366199188,Forte crescimento,58835.0,-3.11,Crescimento moderado
+5214804,Nova Aurora,GO,61260.0,71369.0,16.50179562520393,Forte crescimento,64865.0,-9.11,Forte crescimento
+5214838,Nova Crixás,GO,837462.0,932185.0,11.310722158139775,Forte crescimento,867743.0,-6.91,Crescimento moderado
+5214861,Nova Glória,GO,211783.0,196168.0,-7.373113044956403,Forte retração,204554.0,4.27,Retração
+5214879,Nova Iguaçu de Goiás,GO,63644.0,72975.0,14.66124065112182,Forte crescimento,71294.0,-2.3,Forte crescimento
+5214903,Nova Roma,GO,71051.0,80910.0,13.875948262515614,Forte crescimento,72918.0,-9.88,Crescimento moderado
+5215009,Nova Veneza,GO,225168.0,261701.0,16.224774390677133,Forte crescimento,241902.0,-7.57,Forte crescimento
+5215207,Novo Brasil,GO,91492.0,105687.0,15.515017706466194,Forte crescimento,100113.0,-5.27,Forte crescimento
+5215231,Novo Gama,GO,1225873.0,1349983.0,10.124213519671411,Forte crescimento,1383993.0,2.52,Forte crescimento
+5215256,Novo Planalto,GO,218000.0,190862.0,-12.448623853211005,Forte retração,192996.0,1.12,Forte retração
+5215306,Orizona,GO,1078348.0,1147584.0,6.420561822342896,Forte crescimento,1082992.0,-5.63,Estabilidade
+5215405,Ouro Verde de Goiás,GO,143083.0,217326.0,51.88806496928364,Forte crescimento,157281.0,-27.63,Forte crescimento
+5215504,Ouvidor,GO,547735.0,486717.0,-11.140058604982384,Forte retração,568106.0,16.72,Crescimento moderado
+5215603,Padre Bernardo,GO,1268685.0,1036141.0,-18.329530182827213,Forte retração,1200698.0,15.88,Forte retração
+5215652,Palestina de Goiás,GO,194266.0,259528.0,33.59414411168187,Forte crescimento,241374.0,-6.99,Forte crescimento
+5215702,Palmeiras de Goiás,GO,2058423.0,2083486.0,1.2175825862810186,Crescimento moderado,2120317.0,1.77,Crescimento moderado
+5215801,Palmelo,GO,61057.0,58941.0,-3.465614098301484,Retração,59262.0,0.55,Retração
+5215900,Palminópolis,GO,226657.0,233772.0,3.13910446180794,Crescimento moderado,243886.0,4.33,Forte crescimento
+5216007,Panamá,GO,162077.0,207977.0,28.31987265312168,Forte crescimento,200371.0,-3.66,Forte crescimento
+5216304,Paranaiguara,GO,303870.0,317830.0,4.594069832494108,Crescimento moderado,308709.0,-2.87,Crescimento moderado
+5216403,Paraúna,GO,2257148.0,1824836.0,-19.15301965134759,Forte retração,1793050.0,-1.74,Forte retração
+5216452,Perolândia,GO,806454.0,790811.0,-1.9397262584104125,Retração,836148.0,5.73,Crescimento moderado
+5216809,Petrolina de Goiás,GO,196907.0,244843.0,24.344487499174704,Forte crescimento,220485.0,-9.95,Forte crescimento
+5216908,Pilar de Goiás,GO,150442.0,121147.0,-19.47262067773632,Forte retração,155787.0,28.59,Crescimento moderado
+5217104,Piracanjuba,GO,1553630.0,1311747.0,-15.568893494589952,Forte retração,1454123.0,10.85,Forte retração
+5217203,Piranhas,GO,867467.0,953112.0,9.872998050646299,Forte crescimento,914159.0,-4.09,Forte crescimento
+5217302,Pirenópolis,GO,723535.0,830089.0,14.72686186570118,Forte crescimento,806302.0,-2.87,Forte crescimento
+5217401,Pires do Rio,GO,1665448.0,1928362.0,15.786383003251947,Forte crescimento,1748533.0,-9.33,Crescimento moderado
+5217609,Planaltina,GO,1847269.0,1939904.0,5.014700078873191,Forte crescimento,2005022.0,3.36,Forte crescimento
+5217708,Pontalina,GO,825564.0,840052.0,1.7549214839794214,Crescimento moderado,803938.0,-4.3,Retração
+5218003,Porangatu,GO,2114319.0,2072827.0,-1.9624285644692985,Retração,2182442.0,5.29,Crescimento moderado
+5218052,Porteirão,GO,432393.0,388339.0,-10.188416556234692,Forte retração,401869.0,3.48,Forte retração
+5218102,Portelândia,GO,419210.0,305584.0,-27.10479234751083,Forte retração,325817.0,6.62,Forte retração
+5218300,Posse,GO,848353.0,938125.0,10.581915782698825,Forte crescimento,934389.0,-0.4,Forte crescimento
+5218391,Professor Jamil,GO,79956.0,86823.0,8.588473660513273,Forte crescimento,85793.0,-1.19,Forte crescimento
+5218508,Quirinópolis,GO,2849824.0,3123504.0,9.603400069618306,Forte crescimento,2869572.0,-8.13,Estabilidade
+5218607,Rialma,GO,377773.0,410814.0,8.746257673258784,Forte crescimento,417131.0,1.54,Forte crescimento
+5218706,Rianápolis,GO,100217.0,125402.0,25.13046688685563,Forte crescimento,112950.0,-9.93,Forte crescimento
+5218789,Rio Quente,GO,444584.0,579154.0,30.268745613877314,Forte crescimento,465277.0,-19.66,Crescimento moderado
+5218805,Rio Verde,GO,21534362.0,22310032.0,3.6020105912586864,Crescimento moderado,21437814.0,-3.91,Estabilidade
+5218904,Rubiataba,GO,716389.0,767419.0,7.1232249518067725,Forte crescimento,755518.0,-1.55,Forte crescimento
+5219001,Sanclerlândia,GO,280545.0,279278.0,-0.45162095207536,Estabilidade,315281.0,12.89,Forte crescimento
+5219100,Santa Bárbara de Goiás,GO,178423.0,183431.0,2.8068130229846444,Crescimento moderado,184710.0,0.7,Crescimento moderado
+5219209,Santa Cruz de Goiás,GO,320517.0,293229.0,-8.513744980765503,Forte retração,286969.0,-2.13,Forte retração
+5219258,Santa Fé de Goiás,GO,336798.0,350881.0,4.181438132055404,Crescimento moderado,347141.0,-1.07,Crescimento moderado
+5219308,Santa Helena de Goiás,GO,2215720.0,1995752.0,-9.927608181539116,Forte retração,2150828.0,7.77,Retração
+5219357,Santa Isabel,GO,157238.0,147694.0,-6.069779569824174,Forte retração,161146.0,9.11,Crescimento moderado
+5219407,Santa Rita do Araguaia,GO,191289.0,216189.0,13.016953405580045,Forte crescimento,221945.0,2.66,Forte crescimento
+5219456,Santa Rita do Novo Destino,GO,185962.0,179620.0,-3.41037416246337,Retração,178419.0,-0.67,Retração
+5219506,Santa Rosa de Goiás,GO,73250.0,100777.0,37.57952218430025,Forte crescimento,94813.0,-5.92,Forte crescimento
+5219605,Santa Tereza de Goiás,GO,109190.0,105474.0,-3.4032420551332487,Retração,100808.0,-4.42,Forte retração
+5219704,Santa Terezinha de Goiás,GO,216146.0,259907.0,20.246037400645832,Forte crescimento,239883.0,-7.7,Forte crescimento
+5219712,Santo Antônio da Barra,GO,348988.0,329277.0,-5.648045204992647,Forte retração,357679.0,8.63,Crescimento moderado
+5219738,Santo Antônio de Goiás,GO,161394.0,200106.0,23.986021785196442,Forte crescimento,182588.0,-8.75,Forte crescimento
+5219753,Santo Antônio do Descoberto,GO,887443.0,972899.0,9.62946352610803,Forte crescimento,998710.0,2.65,Forte crescimento
+5219803,São Domingos,GO,203081.0,276813.0,36.3066953580099,Forte crescimento,244288.0,-11.75,Forte crescimento
+5219902,São Francisco de Goiás,GO,142562.0,173869.0,21.960269917649878,Forte crescimento,161785.0,-6.95,Forte crescimento
+5220009,São João d'Aliança,GO,681974.0,597270.0,-12.420414854525285,Forte retração,635275.0,6.36,Forte retração
+5220058,São João da Paraúna,GO,158221.0,148707.0,-6.013108247324883,Forte retração,164155.0,10.39,Crescimento moderado
+5220108,São Luís de Montes Belos,GO,1887337.0,2008425.0,6.41581233240287,Forte crescimento,2035729.0,1.36,Forte crescimento
+5220157,São Luiz do Norte,GO,207648.0,221723.0,6.778297888734741,Forte crescimento,234006.0,5.54,Forte crescimento
+5220207,São Miguel do Araguaia,GO,782339.0,880802.0,12.58572051246334,Forte crescimento,818485.0,-7.08,Crescimento moderado
+5220264,São Miguel do Passa Quatro,GO,360021.0,337469.0,-6.26407903983377,Forte retração,321386.0,-4.77,Forte retração
+5220280,São Patrício,GO,60326.0,66124.0,9.61111295295547,Forte crescimento,64125.0,-3.02,Forte crescimento
+5220405,São Simão,GO,1477387.0,2537275.0,71.74071519513838,Forte crescimento,1538515.0,-39.36,Crescimento moderado
+5220454,Senador Canedo,GO,5809312.0,5495055.0,-5.409539029750765,Forte retração,6495375.0,18.2,Forte crescimento
+5220504,Serranópolis,GO,832893.0,819680.0,-1.5863982528367626,Retração,774807.0,-5.47,Forte retração
+5220603,Silvânia,GO,1548586.0,1594191.0,2.9449446139897084,Crescimento moderado,1672060.0,4.88,Forte crescimento
+5220686,Simolândia,GO,232071.0,233339.0,0.5463845116364441,Estabilidade,255712.0,9.59,Forte crescimento
+5220702,Sítio d'Abadia,GO,106619.0,104248.0,-2.223806263423922,Retração,96225.0,-7.7,Forte retração
+5221007,Taquaral de Goiás,GO,97546.0,97090.0,-0.46747175691459475,Estabilidade,105408.0,8.57,Forte crescimento
+5221080,Teresina de Goiás,GO,41892.0,47499.0,13.384417072472111,Forte crescimento,46253.0,-2.62,Forte crescimento
+5221197,Terezópolis de Goiás,GO,236518.0,258448.0,9.272021579752753,Forte crescimento,253131.0,-2.06,Forte crescimento
+5221304,Três Ranchos,GO,71371.0,96756.0,35.56766754003713,Forte crescimento,80551.0,-16.75,Forte crescimento
+5221403,Trindade,GO,3228071.0,3631624.0,12.501366915411726,Forte crescimento,3685263.0,1.48,Forte crescimento
+5221452,Trombas,GO,72683.0,82138.0,13.00854395113027,Forte crescimento,77363.0,-5.81,Forte crescimento
+5221502,Turvânia,GO,371443.0,359274.0,-3.2761419652543977,Retração,384415.0,7.0,Crescimento moderado
+5221551,Turvelândia,GO,810935.0,757326.0,-6.610764117962631,Forte retração,784930.0,3.64,Retração
+5221577,Uirapuru,GO,78044.0,86672.0,11.055302137255918,Forte crescimento,85213.0,-1.68,Forte crescimento
+5221601,Uruaçu,GO,1495649.0,1637352.0,9.474348593821102,Forte crescimento,1651079.0,0.84,Forte crescimento
+5221700,Uruana,GO,350885.0,405664.0,15.611667640394966,Forte crescimento,413770.0,2.0,Forte crescimento
+5221809,Urutaí,GO,165093.0,152304.0,-7.746542857661931,Forte retração,158376.0,3.99,Retração
+5221858,Valparaíso de Goiás,GO,3278279.0,3621840.0,10.47991949434448,Forte crescimento,3734921.0,3.12,Forte crescimento
+5221908,Varjão,GO,117653.0,122376.0,4.014347275462549,Crescimento moderado,116521.0,-4.78,Estabilidade
+5222005,Vianópolis,GO,960672.0,914943.0,-4.760105426201577,Retração,917712.0,0.3,Retração
+5222054,Vicentinópolis,GO,720444.0,677600.0,-5.946888307765786,Forte retração,679865.0,0.33,Forte retração
+5222203,Vila Boa,GO,194803.0,201846.0,3.615447400707339,Crescimento moderado,191054.0,-5.35,Retração
+5222302,Vila Propício,GO,457512.0,444209.0,-2.9076832957385723,Retração,416144.0,-6.32,Forte retração
+5300108,Brasília,DF,328789563.0,365669108.0,11.216762680511394,Forte crescimento,362766750.0,-0.79,Forte crescimento

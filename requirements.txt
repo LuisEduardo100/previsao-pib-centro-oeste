@@ -1,0 +1,9 @@
+# testado com pandas 2.2 e 3.1, scikit-learn 1.6 e 1.9, Python 3.12 e 3.13
+pandas>=2.2
+numpy>=2.2
+matplotlib>=3.10
+seaborn>=0.13
+scikit-learn>=1.6
+gdown>=4.3,<6   # o notebook usa "gdown --id", opção removida no gdown 6
+sidrapy         # só para refazer a coleta da célula 0
+requests        # só para refazer a coleta da célula 0
